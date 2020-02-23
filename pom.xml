@@ -25,7 +25,7 @@
             <id>snapshots</id>
             <name>cc7d60ca57df-snapshots</name>
             <url>http://localhost:8081/artifactory/libs-snapshot</url>
-            <layout>legacy</layout>
+         <!--    <layout>legacy</layout>-->
         </snapshotRepository>
         <repository>
             <uniqueVersion>false</uniqueVersion>
