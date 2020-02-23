@@ -3,6 +3,7 @@ package com.example.devops;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
+@lombok.Generated
 public class ServletInitializer extends SpringBootServletInitializer {
 
 	@Override
